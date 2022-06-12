@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Miner_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 5e20c1129d49c3e448ada928d96cdd8e, type: 3}
+  materials:
+  - {fileID: 2100000, guid: cde951d6a8a779049b822a8e807ae367, type: 2}
+  - {fileID: 2100000, guid: 1bb9cc810dbdf564c9d95944f787c6fe, type: 2}
+  - {fileID: 2100000, guid: 9386a74ecdba5284a9ccb5003f0e9d9a, type: 2}
